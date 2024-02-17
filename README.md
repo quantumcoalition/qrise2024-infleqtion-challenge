@@ -17,7 +17,7 @@ Atomic clocks are an extremely useful quantum technology. It's usage in GPS sate
 
 ## Submission criteria
 
-Submit a GitHub repository with complete Python code under the Apache Licence for your project and a write-up of your results, which includes a brief description of what you learned by making atomic clocks out of VQE and how to use fault tolerant quantum computers to improve atomic clocks.
+Fork this repository and add the complete Python code for your project including a write-up of your results to your fork. The write-up should include a brief description of what you learned by making atomic clocks out of VQE and how to use fault tolerant quantum computers to improve atomic clocks.
 
 ## Useful resources
 
